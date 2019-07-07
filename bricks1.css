@@ -1,0 +1,10 @@
+#brickGame{
+    border: 1px solid black;
+
+}
+#image_ball{
+    display:none;
+}
+#image_brick{
+    display:none;
+}
